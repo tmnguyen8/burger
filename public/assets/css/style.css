@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(66,63,84);
+}
+.jumbotron {
+    background-image: url("../image/burger.jpg");
+    color: rgb(0, 162, 255);
+}
+.title {
+    text-align:center;
+}
+.status {
+    text-align: center;
+}
+.burger-item {
+    border: 1px solid rgb(0, 162, 255);
+    margin: 5px;
+    padding: 5px;
+}
+.burger-name {
+    color: white;
+    font-size: 1.5vw;
+}
+.add-burger {
+    text-align: center;
+}

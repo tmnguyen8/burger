@@ -1,9 +1,12 @@
 <li>
-	{{burger_name}}
+	<div class="burger-item">
+		<p class="burger-name">{{burger_name}}</p>
 
-	<button class="change-sleep" data-id="{{id}}" data-newstatus="{{status}}">
-		{{#if status}}ALREADY EATEN!{{else}}EAT ME!{{/if}}
-	</button>
+		<button class="change-sleep btn-primary" data-id="{{id}}" data-newstatus="{{status}}">
+			{{#if status}}ALREADY EATEN!{{else}}EAT ME!{{/if}}
+		</button>
 
-	<button class="delete-burger" data-id="{{this.id}}">DELETE!</button>
+		<button class="delete-burger btn-primary" data-id="{{this.id}}">DELETE!</button>
+	</div>
+	
 </li>
