@@ -1,4 +1,4 @@
-# Amazon-Like SQL
+# Burger ORM
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
@@ -23,7 +23,7 @@ This is a great learning tool for node js/javascript/mySQL/Express-handlebars/Ex
 ## How to get Started?
 1. clone the repository:
 ```git
-git clone git@github.com:tmnguyen8/amazonSQL.git
+git clone git@github.com:tmnguyen8/burger.git
 ```
 * If your node js and npm installed, you can skip this step.
   * [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
